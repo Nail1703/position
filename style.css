@@ -1,0 +1,25 @@
+div {
+	border: solid orangered 10px;
+ 	background: orange;
+ 	padding: 30px;
+ 	text-align: center;
+ 	position: fixed;
+ 	width: 90%;
+}
+a {
+	padding-left: 30px;
+	text-decoration: none;
+}
+.m {
+	width: 500px;
+	position: absolute;
+	top: 350px;
+	left: 250px;
+
+}
+.gm {
+	width: 600px;
+	position: absolute;
+	top: 700px;
+	left:100px ;
+}
